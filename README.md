@@ -1,3 +1,5 @@
+# antes de ejecuta rle script deben de editar el archivo por dentro utilizando algun sublimetext o algo y cambiar en nombre de la base de datos la mia esta con "aqua_world"
+
 # Guía de instalación de nivel 80 a 255
 
 Esta guía proporciona instrucciones para instalar el script de nivel 80 a 255, que permite a los jugadores aumentar el rango de nivel máximo de 80 a 255 en su servidor de World of Warcraft. Tenga en cuenta que este proceso de instalación implica modificar su base de datos y requiere precaución. Siga los pasos a continuación para instalar el script correctamente:
