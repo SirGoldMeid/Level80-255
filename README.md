@@ -1,4 +1,4 @@
-# antes de ejecuta rle script deben de editar el archivo por dentro utilizando algun sublimetext o algo y cambiar en nombre de la base de datos la mia esta con "aqua_world"
+# antes de ejecuta el script deben de editar el archivo por dentro utilizando algun sublimetext o algo edito de texto para archivos .sql y cambiar en nombre de la base de datos la mia esta con "aqua_world" por la que ustesdes tienen
 
 # Guía de instalación de nivel 80 a 255
 
